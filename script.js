@@ -29,7 +29,7 @@ $(function(){
         });
 
     peer = new Peer({
-        key: '04b37624-0465-443b-9a67-867469528255',
+        key: '10f66b8b-fbb8-449e-9492-a1871b23286e',
         debug: 3
     });
 
